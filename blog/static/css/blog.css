@@ -1,5 +1,7 @@
 .page-header {
-    background-color: #C25100;
+    background-image: url("https://picsum.photos/1080?nocache=");
+    background-size: cover;
+    background-repeat: no-repeat;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -9,7 +11,7 @@
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-    color: #ffffff;
+    color: #000000;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -18,7 +20,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Satisfy', cursive;
 }
 
 .date {
@@ -59,12 +61,12 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: #000000;
     background: none;
-    border-color: #C25100;
+    border-color: #000000;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #000000;
 }
